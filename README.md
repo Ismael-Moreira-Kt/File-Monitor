@@ -22,3 +22,24 @@ Before compiling and running File Monitor, ensure that you have the following re
 - **NASM**
 - **GTK+3**
 - **Make**
+
+<br><br>
+
+## Installation
+To compile and run File Monitor, follow the steps below:
+
+#### Clone the repository:
+```bash
+git clone https://github.com/Ismael-Moreira-Kt/File-Monitor
+cd File-Monitor
+```
+
+#### Compile the project using the Makefile:
+```bash
+make
+```
+
+#### Run the application
+```bash
+./build/monitor
+```
