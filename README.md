@@ -53,3 +53,5 @@ After running the program, the main window will open. To use the application:
 - **Select File:** Choose a file you want to view.
 - **View Content:** The content of the selected file will be displayed in the text area.
 
+## License
+This project is licensed under the [MIT License](./LICENSE). Please feel free to use, modify and distribute this code.
