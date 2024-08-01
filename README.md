@@ -43,3 +43,13 @@ make
 ```bash
 ./build/monitor
 ```
+
+<br><br>
+
+## Use
+After running the program, the main window will open. To use the application:
+
+- **Open File:** Click the "Open File" button to open a file chooser.
+- **Select File:** Choose a file you want to view.
+- **View Content:** The content of the selected file will be displayed in the text area.
+
