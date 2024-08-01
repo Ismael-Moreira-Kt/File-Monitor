@@ -5,3 +5,10 @@ File Monitor is a simple application that allows you to monitor and view the con
 
 ## Introduction
 The goal of this project is to demonstrate how to combine Assembly code with C in a graphical application. The application allows the user to select a file and view its contents in real time in a simple graphical interface. It also includes a logging system to record events and possible errors during execution.
+
+<br><br>
+
+## Functionalities
+- **File Reading:** Using the read syscall implemented in Assembly to read files.
+- **Graphical Interface:** Built with GTK for a friendly user experience.
+- **Logging System:** Records important events and errors, facilitating debugging.
